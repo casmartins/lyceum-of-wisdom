@@ -1332,4 +1332,22 @@ Questão 331
 Em que ano Einstein publicou seus quatro Annus Mirabilis ("Artigos Miraculosos")?
 R: 1905
 
-.
+Questão 332
+Qual dos seguintes comandantes foi de fato governante do seu reino, mas nunca foi oficialmente chefe de estado? 
+R: Carlos Martel
+
+Questão 333
+Qual compositor escreveu a ópera "O Anel dos Nibelungos"?
+R: Wagner 
+
+Questão 334
+Na Arca de Osíris, quantos teletransportes a primeira aliança ganha para ocupar um obelisco?
+R: 8
+
+Questão 335
+Em que ano a União Soviética foi formalmente fundada?
+R: 1922
+
+Questão 336
+Os espinhos de cacto são na verdade uma forma modificada de qual outra parte da planta?
+R: Folhas
