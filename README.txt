@@ -1332,4 +1332,6 @@ Questão 331
 Em que ano Einstein publicou seus quatro Annus Mirabilis ("Artigos Miraculosos")?
 R: 1905
 
-.
+Questão 334
+Qual desses comandantes tem a capacidade de converter algumas unidades mortas em unidades gravemente feridas ao atacar uma cidade?
+R: Carlos Magno
